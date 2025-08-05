@@ -1,5 +1,5 @@
 
-# 💸 Expense Tracker - Java Console Application
+# 💸 Personal Finance Tracker - Java Console Application
 
 A **console-based Expense Tracker** built in Java using **JDBC** and **MySQL**.  
 It helps you manage your **daily financial transactions**, track **credits/debits**, and calculate **balances** within date ranges.
