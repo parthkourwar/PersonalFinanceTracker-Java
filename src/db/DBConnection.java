@@ -7,8 +7,8 @@ import java.sql.SQLException;
 public class DBConnection
 {
     private static final String url = "jdbc:mysql://localhost:3306/finance_manager";
-    private static final String username = "root";
-    private static final String password = "mysql";
+    private static final String username = "YOUR_USERNAME";
+    private static final String password = "YOUR_PASSWORD";
 
     static
     {
